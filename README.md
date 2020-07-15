@@ -1,3 +1,4 @@
+
 七喜开源数字货币交易系统
 =====================================
 
@@ -240,3 +241,494 @@ water.proof.app.**
 ### 提问和建议
 - 使用Isuse，我们会及时跟进解答。
 - 交流群QQ: 971164403
+
+Qīxǐ kāiyuán shùzì huòbì jiāoyì xìtǒng
+=====================================
+
+    qīxǐ shì yīgè jīyú ZTUO kāiyuán dàimǎ jìnxíng dàliàng yōuhuà de shùzì huòbì jiāoyì xìtǒng, jìshù jiāoliú QQ qún: 971164403.
+    
+## Yǔ ZTUO kāiyuán bǎnběn xiàng bǐ de yōuhuà    
+1. Xiūfù xìtǒng nèi de yú'é suǒ BUG, jì zài gāo bìngfā chǎngjǐng xià de jiésuàn yìcháng wèntí
+    
+2. Xiūgǎi shēngjí market xiàngmù chǔlǐ luójí, shǐ zhī zhīchí duō jiédiǎn jíqún bùshǔ, chǔlǐ xiàolǜ gèng gāo
+
+3. Xīn zēng jiēkǒu huǎncún gōngnéng, lìyòng redis tígōng shùjù èr jí huǎncún, jiǎnshǎo shùjùkù yālì
+
+4. Zhīchí mysql zhǔ cóng fùzhì móshì bùshǔ
+
+5. Zhīchí Redis shàobīng móshì jíqún huánjìng
+
+6. Yǐnrù Redission kuàngjià, bìng lìyòng tā shíxiàn fēnbù shì suǒ
+
+7. Shēngjí spring-session kuàngjià
+
+8. Shēngjí spring-boot kuàngjià
+
+9. Yǐnrù xxl-job kuàngjià, lìyòng tā shíxiàn fēnbù shì zìdòng rènwù diàodù
+
+## jìshù zhǐbiāo
+
+ 1. Cuòhé yǐnqíng sùdù měi miǎo 3000+
+ 2. Měi miǎo wánchéng 600+qīngsuàn
+ 3. Zhīchí 1w+yònghù tóngshí zàixiàn jiāoyì
+## yuànjǐng
+
+    wǒmen de shǐmìng shì yòng Java kāifā shìjiè shàng zuì hǎo de, gāo xìngnéng de, ānquán de, kāiyuán de (zhòngdiǎn) shùzì huòbì jiāoyì xìtǒng.
+
+    Wǒmen xīwàng tōngguò kāiyuán shèqū de lìliàng néng xiānghù jiāoliú, gòngtóng gǎijìn.
+
+    Fēicháng gǎnxiè nín de bāngzhù (issue  or money. Hǎo ba,more money!), Qǐng suíshí tíjiāo qǐngqiú huò gōngkāi wèntí.
+
+
+## Jǐnggào
+
+1. Yùnyíng yījiā jiāoyì suǒ shì fēicháng bù róngyì de.
+
+    Qīxǐ kuàngjià kěyǐ shǐ nǐ hěn róngyì de jiànlì yī tào shùzì huòbì jiāoyì xìtǒng, dànshì, tā yuǎn yuǎn bǐ dājiàn yīgè wǎngzhàn yào nán de duō dé duō. Bùyào yǐwéi jiǎndān de jiùshì diǎnjī xià yībù, xià yībù jí kě wánchéng. Zhěnggè tǐxì jiàgòu fēn wéi le hěnduō de zǔjiàn, xūyào zhuānyè de zhīshì huòzhě tuánduì cáinéng yùnxíng chénggōng, hǎo zài yǒu wǒmen, kěyǐ suíshí liánxì wǒmen.
+
+2. Xìtǒng ānquán zhīshì.
+
+    Qīxǐ kuàngjià bùnéng bǎohù nǐ de shùzì zīchǎn ānquán, yě bùnéng bǎozhèng nǐ de xìtǒng yùnxíng ānquán. Zài bùshǔ guòchéng zhōng, xūyào zhùyì wǎngluò ānquán de shèzhì, rúguǒ nǐ bùzài háng dehuà, kěyǐ zhǎo yīgè zhuānyè de yùn wéi rényuán.
+
+3. Fǎlǜ fēngxiǎn
+
+- fǎlǜ fēngxiǎn dì yī tiáo: Bùyào chùfàn zhōnghuá rénmín gònghéguó de fǎlǜ tiáolì.
+
+- Jìshù wú zuì, qǐng zài fǎlǜ fànwéi nèi shǐyòng qīxǐ kuàngjià.
+
+- Rúguǒ nǐ xiǎng shǐyòng qīxǐ zuòwéi shāngyè yìngyòng, zuì hǎo qǐng gè lǜshī, quèbǎo nǐ de shāngyè yìngyòng zài fǎlǜ yǔnxǔ de fànwéi nèi. Yīqiè yòng yú shāngyè huà xiàngmù suǒ dài lái de fǎlǜ hé jīngjì wèntí, qīxǐ tuánduì gài bù fùzé.
+
+4. Nǐ xūyào zhīdào de jīběn zhīshì
+
+- fǎlǜ zhīshì (ānquán dì yī tiáo, fǎlǜ zuì zhòngyào)
+- Java zhīshì (zhǔyào shi spring)
+- linux zhīshì (CentOS,Ubuntu děng děng)
+- ānquán zhīshì
+
+
+### zhǔyào jìshù
+- hòu duān:Spring,SpringMVC,SpringData,SpringCloud,SpringBoot
+
+- shùjùkù:Mysql,Mongodb
+
+- qítā:Redis,kafka, ālǐ yún OSS, téngxùn fángshuǐ jiào yàn
+
+
+### kāiyuán xǔkě xiéyì
+    MIT
+
+---
+
+# jiàgòu shèjì
+
+#### ![](Https://Images.Gitee.Com/uploads/images/2019/0824/101549_9dea9664_1725492.Png)
+
+##  mókuài jièshào
+
+1. Cloud
+
+- tígōng SpringCloud wéi fúwù zhùcè zhōngxīn gōngnéng, wèi jīchǔ mókuài, bìxū bùshǔ
+- yīlài fúwù: Wú
+
+2. Ucenter-api
+
+- tígōng yònghù xiāngguān de jiēkǒu (rú dēnglù, zhùcè, zīchǎn lièbiǎo), gāi mókuài wèi jīchǔ wèi jīchǔ mókuài, bìxū bùshǔ
+- yīlài fúwù:Mysql,kafka,redis,mongodb, duǎnxìn jiēkǒu, yóuxiāng zhànghào
+
+3. Otc-api
+
+- tígōng chǎng wài jiāoyì gōngnéng jiēkǒu, méiyǒu chǎng wài jiāoyì de kěyǐ bù bùshǔ
+- yīlài fúwù:Mysql,redis,mongodb, duǎnxìn jiēkǒu
+
+4. Exchange-api
+
+- tígōng bì bì jiāoyì jiēkǒu, méiyǒu bì bì jiāoyì de xiàngmù kěyǐ bù bùshǔ
+- yīlài fúwù:Mysql,redis,mongodb,kafka
+
+5. Gateway
+
+- wéi fúwù wǎngguān
+
+6. Admin
+
+- tígōng guǎnlǐ hòutái de suǒyǒu fúwù jiēkǒu, bìxū bùshǔ
+- yīlài fúwù:Mysql,redis,mongodb
+
+7. Wallet
+
+- tígōng chōng bì, tí bì, huòqǔ dìzhǐ děng qiánbāo fúwù, wèi jīchǔ mókuài, bìxū bùshǔ
+- yīlài fúwù:Mysql,mongodb,kafka,cloud
+
+8. Market
+
+- tígōng bì zhǒng jiàgé,k xiàn, shíshí chéngjiāo děng jiēkǒu fúwù, chǎng wài jiāoyì bù xūyào bùshǔ
+- yīlài fúwù:Mysql,redis,mongodb,kafka,cloud
+
+9. Exchange
+
+- tígōng cuòhé jiāoyì fúwù, chǎng wài jiāoyì bù xūyào bùshǔ
+- yīlài fúwù:Mysql,mongodb,kafka
+
+##  zhòngdiǎn yèwù jièshào
+
+    hòu duān kuàngjià de héxīn mókuài wèi exchange,market mókuài.
+
+    Qízhōng exhcnge mókuài wánquán cǎiyòng Java nèicún chǔlǐ duìliè, dàdà jiākuài chǔlǐ luójí, zhōngjiān bù qiānshè shùjùkù cāozuò, bǎozhèng chǔlǐ sùdù kuài, qízhōng xiàngmù qǐdòng hòu cǎiyòng jìchéng ApplicationListener fāngshì, zìdòng yùnxíng;
+
+    qǐdòng hòu zìdòng jiāzài wèi chǔlǐ de dìngdān, chóngxīn jiāzài dào JVM zhōng, cóng'ér bǎozhèng shùjù de zhǔnquè,exchange jiāng dìngdān chǔlǐ hòu, jiāng chéngjiāo jìlù fāsòng dào market;
+
+    market mókuài zhǔyào dōu shì shùjùkù cāozuò, jiāng yònghù biànhuà xìnxī chíjiǔ huà dào shùjùkù zhōng. Zhǔyào nándiǎn zàiyú hé qiánduān jiāohù socket tuīsòng,socket tuīsòng cǎiyòng liǎng zhǒng fāngshì,web duān socket cǎiyòng SpringSocket, yídòng duān cǎiyòng Netty tuīsòng, qízhōng netty tuīsòng tōngguò dìngshí rènwù chǔlǐ.
+
+## Huánjìng dājiàn
+
+#### CentOS huánjìng dājiàn ()
+
+## fúwù bùshǔ zhǔnbèi
+
+1. Xiàngmù yòngle Lombok chājiàn, wúlùn yòng shénme IDE gōngjù, qǐng wùbì xiān ānzhuāng Lombok chājiàn
+2. Xiàngmù yòngle QueryDsl, rúguǒ yùjiàn yǐ Q kāitóu de lèi zhǎo bù dào, qǐng xiān biānyì yīxià duìyìng de core mókuài, lìrú core,exchange-core,xxx-core zhè zhǒng mókuài
+3. Zhǎo bù dào de jar bāo zài xiàngmù jar wénjiàn jiā xià
+4. Jdk bǎnběn 1.8 Yǐshàng
+5. Chūshǐhuà sql zài sql wénjiàn jiā zhōng pèizhì wénjiàn
+pèizhì wénjiàn dǎkāi zhège shèzhì huì zìdòng jiàn biǎo
+#jpa
+spring.Jpa.Hibernate.Ddl-auto=update
+
+## xiūgǎi fúwù pèizhì wénjiàn
+qǐng gēnjù fúwù shíjì bùshǔ qíngkuàng xiūgǎi yǐxià pèizhì. Pèizhì wénjiàn wèizhì rúxià, rúguǒ pèizhì wénjiàn zhōng méiyǒu mǒu yī xiàng pèizhì, shuōmíng gāi mókuài wèi shǐyòng dào gāi xiàng gōngnéng, wúxū tiānjiā:
+
+```
+Gège mókuài/src/main/resources/dev/application.Properties
+```
+
+mysql shùjùkù:
+
+```
+Spring.Datasource.**
+```
+
+Reids
+
+```
+redis.**
+```
+
+Mongodb(zhǔyào cúnchú K xiàn tú xiāngguān shùjù)
+
+```
+spring.Data.Mongodb.Uri
+```
+
+kafka
+
+```
+spring.Kafka.Bootstrap-servers
+```
+
+ālǐ yún OSS, túpiàn zīyuán shàngchuán
+
+```
+aliyun.**
+```
+
+Duǎnxìn pèizhì
+
+```
+sms.**
+```
+
+Yóujiàn rènzhèng
+
+```
+spring.Mail.**
+```
+
+Téngxùn fángshuǐ jiào yàn
+
+```
+water.Proof.App.**
+```
+
+### Fúwù qǐdòng
+ 1. Maven gòujiàn dǎbāo fúwù
+
+    ```
+    cd/xiàngmù lùjìng/framework
+    mvn clean package
+    ```
+
+ 2. Jiāng gège mókuài target wénjiàn jiā xià de XX.Jar shàngchuán dào zìjǐ de fúwùqì
+
+ 3. Xiān qǐdòng cloud mókuài, zài qǐdòng market,exchange mókuài, shèng xià de méiyǒu shùnxù.
+
+ 4. Qǐdòng fúwù
+
+    lì:
+
+    ```
+    Nohup  java  -jar  /zìjǐ de jar bāo lùjìng/cloud.Jar  >/dev/null 2>&1&
+    ```
+    
+    ```
+    nohup  java  -jar  /web/app/cloud.Jar  >/dev/null 2>&1&
+    nohup  java  -jar  /web/app/exchange.Jar  >/dev/null 2>&1&
+    nohup  java  -jar  /web/app/market.Jar  >/dev/null 2>&1&
+    nohup  java  -jar  /web/app/exchange-api.Jar  >/dev/null 2>&1&
+    nohup  java  -jar  /web/app/ucenter-api.Jar  >/dev/null 2>&1&
+    nohup  java  -jar  /web/app/otc-api.Jar  >/dev/null 2>&1& 
+    nohup  java  -jar  /web/app/chat.Jar  >/dev/null 2>&1& 
+    nohup  java  -jar  /web/app/wallet.Jar  >/dev/null 2>&1& 
+    nohup  java  -jar  /web/app/admin.Jar  >/dev/null 2>&1&
+    ```
+
+### tíwèn hé jiànyì
+- shǐyòng Isuse, wǒmen huì jíshí gēn jìn jiědá.
+- Jiāoliú qún QQ: 971164403
+Show more
+3881/5000
+Qixi open source digital currency trading system
+=====================================
+
+    Qixi is a digital currency trading system based on ZTUO open source code for massive optimization, technical exchange QQ group: 971164403.
+    
+## Optimization compared to the ZTUO open source version
+1. Fix the balance lock bug in the system, the abnormal settlement problem in high concurrency scenarios
+    
+2. Modify and upgrade the processing logic of the market project to support multi-node cluster deployment and higher processing efficiency
+
+3. New interface cache function, using redis to provide secondary cache data, reduce database pressure
+
+4. Support mysql master-slave replication mode deployment
+
+5. Support Redis sentry mode cluster environment
+
+6. Introduce the Redission framework and use it to implement distributed locks
+
+7. Upgrade spring-session framework
+
+8. Upgrade spring-boot framework
+
+9. Introduce the xxl-job framework and use it to implement distributed automatic task scheduling
+
+## Technical indicators
+
+ 1. Matching engine speed 3000+ per second
+ 2. Complete 600+ liquidation every second
+ 3. Support 1w+ users to trade online at the same time
+## Vision
+
+    Our mission is to use Java to develop the world's best, high-performance, secure, open source (focus) digital currency trading system.
+
+    We hope that the power of the open source community can communicate with each other and improve together.
+
+    Thank you very much for your help (issue or money. Okay, more money!), please feel free to submit a request or open an issue.
+
+
+## caveat
+
+1. Operating an exchange is very difficult.
+
+    Qixi framework can make it easy for you to build a digital currency trading system, but she is much more difficult than building a website. Don't think that the simple thing is to click next, and the next step will be completed. The entire system architecture is divided into many components, which requires professional knowledge or team to run successfully. Fortunately, we can contact us at any time.
+
+2. System security knowledge.
+
+    Qixi Framework cannot protect your digital assets, nor can it guarantee the safe operation of your system. During the deployment process, you need to pay attention to the network security settings. If you are not good, you can find a professional operation and maintenance staff.
+
+3. Legal risks
+
+-Legal risk Article 1: Do not violate the laws and regulations of the People's Republic of China.
+
+-Technology is not guilty, please use the Qixi framework within the scope of the law.
+
+-If you want to use Qixi as a business application, it is best to ask a lawyer to ensure that your business application is within the scope allowed by law. The Qixi team is not responsible for any legal and economic problems caused by commercialization projects.
+
+4. Basic knowledge you need to know
+
+-Legal knowledge (safety first, law is most important)
+-Java knowledge (mainly spring)
+-Linux knowledge (CentOS, Ubuntu, etc.)
+- safety knowledge
+
+
+### Main technique
+-Backend: Spring, SpringMVC, SpringData, SpringCloud, SpringBoot
+
+-Database: Mysql, Mongodb
+
+-Others: redis, kafka, Alibaba Cloud OSS, Tencent waterproof verification
+
+
+### Open source license agreement
+    MIT
+
+---
+
+# Architecture design
+
+#### ![](https://images.gitee.com/uploads/images/2019/0824/101549_9dea9664_1725492.png)
+
+## Module introduction
+
+1. cloud
+
+-Provide the function of SpringCloud microservice registration center, as a basic module, it must be deployed
+-Dependency service: none
+
+2. ucenter-api
+
+-Provide user-related interfaces (such as login, registration, asset list), the module is based on the basic module, must be deployed
+-Dependency services: mysql, kafka, redis, mongodb, SMS interface, email account
+
+3. otc-api
+
+-Provide over-the-counter trading function interface, no over-the-counter trading can be deployed
+-Dependency service: mysql, redis, mongodb, SMS interface
+
+4. exchange-api
+
+-Provide coin-to-coin transaction interface, projects without coin-to-coin transaction can not be deployed
+-Dependency services: mysql, redis, mongodb, kafka
+
+5. gateway
+
+-Microservice gateway
+
+6. admin
+
+-Provide all service interfaces of the management background, which must be deployed
+-Dependency services: mysql, redis, mongodb
+
+7. wallet
+
+-Provide wallet services such as deposit, withdrawal, and address acquisition, as basic modules, must be deployed
+-Dependency services: mysql, mongodb, kafka, cloud
+
+8. market
+
+-Provide interface services such as currency price, k-line, and real-time transaction, no need to deploy OTC transactions
+-Dependency services: mysql, redis, mongodb, kafka, cloud
+
+9. exchange
+
+-Provide matching transaction services, no need to deploy OTC transactions
+-Dependency services: mysql, mongodb, kafka
+
+## Key business introduction
+
+    The core modules of the back-end framework are exchange and market modules.
+
+    Among them, the exhcnge module completely uses Java memory processing queues, which greatly speeds up the processing logic, does not involve database operations in the middle, and guarantees fast processing speed. Among them, the project uses the inherited ApplicationListener method to automatically run after the project starts;
+
+    Automatically load unprocessed orders after startup and reload them into the JVM to ensure the accuracy of the data. After the order is processed by the exchange, the transaction record is sent to the market;
+
+    The market module is mainly a database operation, which persists user change information into the database. The main difficulty is to interact with the front-end socket push. There are two ways to push socket. The socket on the web uses SpringSocket, and the mobile uses Netty push. Netty push is processed by timed tasks.
+
+## Environment construction
+
+#### CentOS environment build()
+
+## Service deployment preparation
+
+1. The project uses the Lombok plugin, no matter what IDE tool is used, please be sure to install the Lombok plugin first
+2. The project uses QueryDsl. If you encounter a class beginning with Q and cannot find it, please compile the corresponding core module first, such as core, exchange-core, xxx-core, etc.
+3. The jar package cannot be found under the project jar folder
+4. jdk version above 1.8
+5. Initialize sql configuration file in sql folder
+Open this setting in the configuration file will automatically create a table
+#jpa
+spring.jpa.hibernate.ddl-auto=update
+
+## Modify service configuration file
+Please modify the following configuration according to the actual deployment of the service. The location of the configuration file is as follows. If there is no configuration in the configuration file, it means that this function is not used by the module and no need to add:
+
+```
+Various modules/src/main/resources/dev/application.properties
+```
+
+mysql database:
+
+```
+spring.datasource.**
+```
+
+reids
+
+```
+redis.**
+```
+
+mongodb (mainly stores K-line chart related data)
+
+```
+spring.data.mongodb.uri
+```
+
+kafka
+
+```
+spring.kafka.bootstrap-servers
+```
+
+Alibaba Cloud OSS, image resource upload
+
+```
+aliyun.**
+```
+
+SMS configuration
+
+```
+sms.**
+```
+
+Mail authentication
+
+```
+spring.mail.**
+```
+
+Tencent waterproof calibration
+
+```
+water.proof.app.**
+```
+
+### Service start
+ 1. maven build package service
+
+    ```
+    cd /project path/framework
+    mvn clean package
+    ```
+
+ 2. Upload XX.jar under the target folder of each module to its own server
+
+ 3. Start the cloud module first, and then start the market and exchange modules. There is no order for the rest.
+
+ 4. Start the service
+
+    example:
+
+    ```
+    nohup java -jar / own jar package path/cloud.jar >/dev/null 2>&1 &
+    ```
+    
+    ```
+    nohup java -jar /web/app/cloud.jar >/dev/null 2>&1 &
+    nohup java -jar /web/app/exchange.jar >/dev/null 2>&1 &
+    nohup java -jar /web/app/market.jar >/dev/null 2>&1 &
+    nohup java -jar /web/app/exchange-api.jar >/dev/null 2>&1 &
+    nohup java -jar /web/app/ucenter-api.jar >/dev/null 2>&1 &
+    nohup java -jar /web/app/otc-api.jar >/dev/null 2>&1 &
+    nohup java -jar /web/app/chat.jar >/dev/null 2>&1 &
+    nohup java -jar /web/app/wallet.jar >/dev/null 2>&1 &
+    nohup java -jar /web/app/admin.jar >/dev/null 2>&1 &
+    ```
+
+### Questions and suggestions
+-Using Isuse, we will follow up and answer in time.
+-Exchange group QQ: 971164403
+Send feedback
+History
+Saved
+Community
